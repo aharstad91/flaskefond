@@ -31,7 +31,7 @@
 			<section class="row wrap-1920 p-h-4-d p-h-1 p-v-2 p-t-4-d ani">
 				<div class="col-5 row">
 						<div class="col-5 p-r-1-d m-b-1">
-							<h3 class="red">Psst!</h3>
+							<h3 class="red">Pssst!</h3>
 							<p>Følg oss på sosiale medier for å få oppdateringer</p>
 						</div>
 						<div class="p-l-2-d col-7 m-b-2">
